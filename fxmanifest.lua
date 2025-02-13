@@ -2,18 +2,18 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'GTLife Store'
-description '[ESX/QB] Zombies Script'
+description '[QB] Zombies Script'
 version '1.0.0'
 
 dependencies {
     'xsound'
 }
 
-shared_scripts{
+shared_scripts {
     'config.lua'
 }
 
-server_scripts{
+server_scripts {
     'server.lua'
 }
 
