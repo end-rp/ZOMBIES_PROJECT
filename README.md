@@ -13,7 +13,7 @@ GT Zombies is a script for the QB/QBOX/ESX framework that introduces zombie NPCs
 1. Download the script and place it in the resources folder
 2. Add the script to your server configuration file:
    ```
-   ensure qb_zombies
+   ensure gt_zombies
    ```
 
 ## Usage
